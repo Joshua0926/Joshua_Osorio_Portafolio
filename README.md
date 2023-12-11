@@ -1,9 +1,11 @@
 | **Casos de Uso de Alto Nivel:** | |
-| --- | --- |
+
+
 | **Registro de Usuario** | |
 | Tipo | Primario |
 | Roles | Usuarios |
 | Descripción | Permite a los usuarios registrarse en la plataforma proporcionando información personal necesaria. |
+
 
 | **Inicio de Sesión** | |
 | Tipo | Primario |
